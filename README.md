@@ -1,1 +1,3 @@
-# pharmdb
+# PharmDb
+
+Simple drug inventory management app
