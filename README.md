@@ -5,7 +5,7 @@ Basic Django-Postgres template for Development using Docker
 After pulling the repository, need to create two files in the `./backend` directory:
 
 1. `dj_secret.key`: Django Secret Key File
-2. `pg_settings.env`: Postgres Database Password
+2. `pg_settings.env`: Postgres Database Password, specified as "POSTGRES_PASSWORD=*password*"
 
 These will be used by to set up Django and Postgres during initialization.
 
